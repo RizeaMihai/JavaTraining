@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Contains users!
+-->
+
+
+<users>
+    <user>
+        <username>Mihai</username>
+        <password>admin</password>
+        <role>admin</role>
+    </user>
+    <user>
+        <username>viezure</username>
+        <password>veverita</password>
+        <role>user</role>
+    </user>
+    <user>
+        <username>Paleacu</username>
+        <password>trufanda</password>
+        <role>user</role>
+    </user>
+</users>

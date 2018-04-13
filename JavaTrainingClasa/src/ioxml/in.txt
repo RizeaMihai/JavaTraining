@@ -1,0 +1,31 @@
+Current Element :user
+Username : 
+            Mihai
+        
+Password : 
+            admin
+        
+Role : 
+            admin
+        
+
+Current Element :user
+Username : 
+            viezure
+        
+Password : 
+            veverita
+        
+Role : 
+            user
+        
+
+Current Element :user
+Username : 
+            Paleacu
+        
+Password : 
+            trufanda
+        
+Role : 
+            user
